@@ -11,6 +11,12 @@ public class Node {
 
 	public static void main(String[] args){
 		Node head = new Node();
+		Node a = new Node();
+		Node b = new Node();
+		Node c = new Node();
+		Node d = new Node();
+		Node e = new Node();
+		Node f = new Node();
 
 		// Inserting all wanted nodes
 		Insert("You",head);
